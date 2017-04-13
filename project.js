@@ -1,7 +1,13 @@
-var a=2,
-	h= 3,
-	triangleArea;
-	
-	var triangleArea=a*h/2;
-	
-	console.log('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea)
+var value,
+    a = 2,
+    b = 4;
+
+value = (a * a) + (2 * a * b) - (b * b);
+
+if (value > 0) {
+    console.log('Wynik jest dodatni')
+} else if (value = 0) {
+    console.log('Wynik jest równy zero')
+} else {
+    console.log('Wynik jest ujemny')
+}
