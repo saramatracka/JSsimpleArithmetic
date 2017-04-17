@@ -12,4 +12,4 @@ if (value > 0) {
     console.log('Wynik jest ujemny')
 }
 
-//komentarz
+//komentarz dfsfs
