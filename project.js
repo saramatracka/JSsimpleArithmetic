@@ -11,3 +11,5 @@ if (value > 0) {
 } else {
     console.log('Wynik jest ujemny')
 }
+
+//komentarz
